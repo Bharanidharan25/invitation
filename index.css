@@ -137,7 +137,7 @@ p {
         stroke: rgba(255, 255, 255, 0.7);
     }
     html {
-        font-size: 73%;
+        font-size: 78%;
     }
 
     section {
@@ -159,8 +159,11 @@ p {
 
     .timer{
         width: 100%;
-        font-size: 1.15rem;
+        font-size: 1rem;
     }
 
+    .couple-name{
+        font-size: 3.3rem;
+    }
   }
   
